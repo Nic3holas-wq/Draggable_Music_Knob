@@ -1,7 +1,6 @@
 <h1>Volume Knob Control Using Jetpack Compose 🎛️</h1>
 A simple and interactive Volume Knob Control built using Jetpack Compose, featuring a rotating knob and animated volume bars. This project demonstrates the power of Jetpack Compose for building custom UI components and handling user interactions.
-<h2>Preview</h2>
-![Volume Knob Screenshot](app_screenshot.png)
+
 <h2>Features ✨</h2>
 🎚️ Rotating Volume Knob: Adjust volume interactively by rotating the knob.
 📊 Dynamic Volume Bars: Real-time visual feedback with volume level display using animated bars.
