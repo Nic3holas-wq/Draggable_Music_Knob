@@ -29,7 +29,7 @@ cd volume-knob-compose
 Ensure you have an Android emulator or physical device connected.
 Click the Run ▶️ button in Android Studio.
 
-##Usage 🛠️
+<h2>Usage 🛠️</h2>
 Components
 MusicKnob:
 
